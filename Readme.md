@@ -23,11 +23,3 @@ If you'd like to contribute to this project, please follow the standard Git work
 4. Push your changes to your forked repository
 5. Submit a pull request to the main repository
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Please see the LICENSE file for more details.
-
-## Acknowledgments
-
-- [LlamaIndex](https://github.com/run-llama) - The library used for building the Agentic Rag model.
-- [Other relevant libraries or resources]()
