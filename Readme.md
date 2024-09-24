@@ -1,4 +1,4 @@
-# Building Agentic Rag with LlamaIndex
+# Building  Rag with LlamaIndex
 
 This repository contains the code for building an Agentic Rag (a type of language model) using the LlamaIndex library. The project utilizes various components, including Python files, asset directories, and a virtual environment.
 
@@ -7,11 +7,11 @@ This repository contains the code for building an Agentic Rag (a type of languag
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Create a new virtual environment using your preferred tool (e.g., `python -m venv venv` for Python's built-in `venv` module).
-3. Activate the virtual environment (e.g., `source venv/bin/activate` on Unix-based systems or `venv\Scripts\activate` on Windows).
-4. Install the required Python packages by running `pip install -r requirements.txt`.
-5. Set up the necessary environment variables (if applicable) in the `.env` file.
-6. Open the `RouterQueryEngine.ipynb` Jupyter Notebook and follow the instructions provided to build and interact with the Agentic Rag model.
+2. Open the .pynb file in Google colab
+3. Set up the GPU
+4. Install the required Python packages as mentioned in the code
+5. Set up the necessary documents in your google drive folder
+6. Execute the file suing your own API key and connecting to your google drive
 
 ## Contributing
 
